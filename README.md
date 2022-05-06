@@ -12,6 +12,6 @@
 
 Рис 1
 
-Після введення параметрів все готово. Якщо ви не зробидли помилок у вас вийде Рис 2.
+Після введення параметрів все готово можете запускати програму. Якщо ви не зробидли помилок у вас вийде Рис 2.
 
 ![image](https://raw.githubusercontent.com/ppc-ntu-khpi/arrays-advanced-batl64/master/java-2.png?token=GHSAT0AAAAAABSPRZ6FKCI55JT6N7DATZJKYTVMXJA)
