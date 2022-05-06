@@ -16,7 +16,7 @@ public class Main {
     	 short count=0;
     	 /*Заповнення матриці*/
          for(int[] row:matrix) {
-        	 for(int i:row) 
+        	 for(int number:row) 
         		 Arrays.fill(row,count,++count,x++);   
         	 count=0;    
         	 }
