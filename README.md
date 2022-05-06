@@ -6,5 +6,8 @@
 [20,21,22]</pre>
 
 ### Справка 
-Для роботи з програмою спочатку в тестовому класі в метод main і вводите два числа:
-![image](https://raw.githubusercontent.com/ppc-ntu-khpi/arrays-advanced-batl64/master/java-1.png?token=GHSAT0AAAAAABSPRZ6EX6NNZ2OSZBPUQNB6YTVMKKA)
+Для роботи з програмою спочатку зайдіть в тестовий клас потів в методі main введіть потрібні для вас параметри введіть в область яка показа на Рис 1:
+
+![image](https://raw.githubusercontent.com/ppc-ntu-khpi/arrays-advanced-batl64/master/java-1.png?token=GHSAT0AAAAAABSPRZ6FO3OMG3VP2CIPD4QUYTVMS5Q)
+
+Рис 1
