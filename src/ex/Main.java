@@ -1,7 +1,7 @@
 package ex;
 import java.util.Arrays;
 /**
- * Universal class
+ * Універсальний клас
  * @author 1
  *
  */
