@@ -1,20 +1,20 @@
 package ex;
 import java.util.Arrays;
 /**
- * Універсальний клас
+ * Universal class
  * @author 1
  *
  */
 public class Main {
 	/**
-	 * Метод в якому обчислюється матриця.
-	 * @param N кількість рядків і стовпців матриці.
-	 * @param x початкове число відрахунку.
+	 * РњРµС‚РѕРґ РІ СЏРєРѕРјСѓ РѕР±С‡РёСЃР»СЋС”С‚СЊСЃСЏ РјР°С‚СЂРёС†СЏ.
+	 * @param N РєС–Р»СЊРєС–СЃС‚СЊ СЂСЏРґРєС–РІ С– СЃС‚РѕРІРїС†С–РІ РјР°С‚СЂРёС†С–.
+	 * @param x РїРѕС‡Р°С‚РєРѕРІРµ С‡РёСЃР»Рѕ РІС–РґСЂР°С…СѓРЅРєСѓ.
 	 */
     public static void calculation(int N, int x) {
     	 int [][] matrix = new int[N][N];
     	 short count=0;
-    	 /*Заповнення матриці*/
+    	 /*Р—Р°РїРѕРІРЅРµРЅРЅСЏ РјР°С‚СЂРёС†С–*/
          for(int[] row:matrix) {
         	 for(int i:row) 
         		 Arrays.fill(row,count,++count,x++);   
