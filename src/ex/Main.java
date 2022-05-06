@@ -13,12 +13,12 @@ public class Main {
 	 */
     public static void calculation(int N, int x) {
     	 int [][] matrix = new int[N][N];
-    	 short n=0;
+    	 short count=0;
     	 /*Заповнення матриці*/
          for(int[] row:matrix) {
         	 for(int i:row) 
-        		 Arrays.fill(row,n,++n,x++);   
-        	 n=0;    
+        		 Arrays.fill(row,count,++count,x++);   
+        	 count=0;    
         	 }
 
          for(int[] row:matrix)
