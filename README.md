@@ -6,8 +6,12 @@
 [20,21,22]</pre>
 
 ### Справка 
-Для роботи з програмою спочатку зайдіть в тестовий клас потів в методі main введіть потрібні для вас параметри введіть в область яка показа на Рис 1:
+Для роботи з програмою спочатку зайдіть в тестовий клас потів в методі main введіть потрібні для вас параметри(перший це розмір матриці другий паретр це початкове число) введіть в область яка показа на Рис 1.
 
 ![image](https://raw.githubusercontent.com/ppc-ntu-khpi/arrays-advanced-batl64/master/java-1.png?token=GHSAT0AAAAAABSPRZ6FO3OMG3VP2CIPD4QUYTVMS5Q)
 
 Рис 1
+
+Після введення параметрів все готово. Якщо ви не зробидли помилок у вас вийде Рис 2.
+
+![image](https://raw.githubusercontent.com/ppc-ntu-khpi/arrays-advanced-batl64/master/java-2.png?token=GHSAT0AAAAAABSPRZ6FKCI55JT6N7DATZJKYTVMXJA)
